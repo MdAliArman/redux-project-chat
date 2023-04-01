@@ -31,13 +31,12 @@
         },
         {
           "email": "akash@learnwithsumit.com",
-          "password": "$2a$10$kvbBGjs/ukmA.RSszkDmyu7dAoqTCVFxoPEVRBc2Z8eT7E.RDJMQe",
           "name": "akas",
           "id": 2
         }
       ],
-      "message": "hi how are you ",
-      "timestamp": 1680205261359
+      "message": "what about you ",
+      "timestamp": 1680379105770
     },
     {
       "id": 2,
@@ -109,6 +108,140 @@
       },
       "message": "How are you?",
       "timestamp": 1661976143678
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$kvbBGjs/ukmA.RSszkDmyu7dAoqTCVFxoPEVRBc2Z8eT7E.RDJMQe",
+        "name": "akas",
+        "id": 2
+      },
+      "message": "what are you doing Akash",
+      "timestamp": 1680207973142,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$kvbBGjs/ukmA.RSszkDmyu7dAoqTCVFxoPEVRBc2Z8eT7E.RDJMQe",
+        "name": "akas",
+        "id": 2
+      },
+      "message": "whare are you",
+      "timestamp": 1680208007862,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "akash@learnwithsumit.com",
+        "name": "akas",
+        "id": 2
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$1Ws.kiiILDsmmkKGqprj1eY2xZ7FLshZclvXdkCIykXzXvGpsi0D.",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "I am fine Sumit Dada. what about you",
+      "timestamp": 1680208144918,
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "akash@learnwithsumit.com",
+        "name": "akas",
+        "id": 2
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$1Ws.kiiILDsmmkKGqprj1eY2xZ7FLshZclvXdkCIykXzXvGpsi0D.",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "whare are you",
+      "timestamp": 1680210383509,
+      "id": 6
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "akash@learnwithsumit.com",
+        "name": "akas",
+        "id": 2
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$1Ws.kiiILDsmmkKGqprj1eY2xZ7FLshZclvXdkCIykXzXvGpsi0D.",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "whare are you",
+      "timestamp": 1680210386220,
+      "id": 7
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "akash@learnwithsumit.com",
+        "name": "akas",
+        "id": 2
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$1Ws.kiiILDsmmkKGqprj1eY2xZ7FLshZclvXdkCIykXzXvGpsi0D.",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "message": "see you soon",
+      "timestamp": 1680210480764,
+      "id": 8
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "name": "akas",
+        "id": 2
+      },
+      "message": "how are you akash",
+      "timestamp": 1680378363474,
+      "id": 9
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit Saha",
+        "id": 1
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "name": "akas",
+        "id": 2
+      },
+      "message": "what about you ",
+      "timestamp": 1680379105770,
+      "id": 10
     }
   ]
 }
